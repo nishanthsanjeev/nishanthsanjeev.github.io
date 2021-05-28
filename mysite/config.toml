@@ -81,10 +81,10 @@ name = "Github"
 icon = "github"
 url = "https://github.com/nishanthsanjeev"
 
-[[params.social]]
-name = "LinkedIn"
-icon = "linkedin"
-url = "https://in.linkedin.com/in/nishanth-sanjeev"
+#[[params.social]]
+#name = "LinkedIn"
+#icon = "linkedin"
+#url = "https://in.linkedin.com/in/nishanth-sanjeev"
 
 # Enable tags.
 [taxonomies]
